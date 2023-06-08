@@ -1,1 +1,1 @@
-# nvim-dotfile-linux
+# nvim-dotfile
